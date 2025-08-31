@@ -1,2 +1,3 @@
 # naer_draw_record
-my logseq graph for drawing records
+
+我的logseq图谱，用于记录画画的学习。
