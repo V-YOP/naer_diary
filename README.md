@@ -1,3 +1,3 @@
-# naer_draw_record
+# naer_diary
 
-我的logseq图谱，用于记录画画的学习。
+我的logseq图谱，用于记日记，吐槽，基本只会使用标签，日志功能，而非真的作为知识图谱。
